@@ -11,6 +11,8 @@ public class HelloGit
 		System.out.println("New alteration, baby");
 		
 		System.out.println("Ok, baby!, No problem");
+
+		System.out.println("Ok, baby!, No problem");
 	}
 
 }
